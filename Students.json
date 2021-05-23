@@ -1,0 +1,11 @@
+ [{
+  "studeantId" : 102,
+  "studentName" : "Teju",
+  "studentSkill" : "Java Developer"
+}, 
+{
+  "studeantId" : 103,
+  "studentName" : "Tejuvenkat",
+  "studentSkill" : "Java REST API Developer"
+} 
+]
